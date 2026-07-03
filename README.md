@@ -4,8 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=18&duration=3200&pause=1000&color=C7304A&background=00000000&center=true&vCenter=true&width=650&lines=Java+%26+Spring+Boot;Duas+gradua%C3%A7%C3%B5es%2C+um+%C3%BAnico+ofício;Cada+projeto+carrega+um+mundo" alt="typing banner" />
-
+https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=18&duration=3200&pause=1000&color=C7304A&background=00000000&center=true&vCenter=true&width=650&lines=Java+%26+Spring+Boot;Duas+gradua%C3%A7%C3%B5es%2C+um+%C3%BAnico+of%C3%ADcio;Cada+projeto+carrega+um+mundo
 </div>
 
 <br/>
