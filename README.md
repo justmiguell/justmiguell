@@ -15,8 +15,7 @@
 ## ⚜ SOBRE
 
 Sou **Miguel Fanhani**, de Catanduva/SP. Curso **ADS** no IFSP e **Engenharia de
-Software** na Estácio, ao mesmo tempo — e ainda encaixo tudo isso numa escala de
-trabalho 5x1. Tempo é o recurso mais raro que eu tenho, então cada linha de código
+Software** na Estácio, ao mesmo tempo.Tempo é o recurso mais raro que eu tenho, então cada linha de código
 que escrevo tenta valer a pena.
 
 Gosto de construir coisas que carregam um mundo próprio — não só uma funcionalidade,
